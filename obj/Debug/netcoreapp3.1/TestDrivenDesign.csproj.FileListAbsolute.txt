@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.exe
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.deps.json
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.runtimeconfig.json
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.runtimeconfig.dev.json
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.dll
+C:\Users\hp\source\repos\TestDrivenDesign\bin\Debug\netcoreapp3.1\TestDrivenDesign.pdb
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.AssemblyInfo.cs
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.dll
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.pdb
+C:\Users\hp\source\repos\TestDrivenDesign\obj\Debug\netcoreapp3.1\TestDrivenDesign.genruntimeconfig.cache
