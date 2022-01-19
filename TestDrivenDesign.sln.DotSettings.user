@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0929d660_002Dec5d_002D4031_002D884d_002Dd43216701193/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0929d660_002Dec5d_002D4031_002D884d_002Dd43216701193/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;Test&gt;&#xD;
       &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Add_SingleMethodASimpleCalculator("2, 6",8)&lt;/TestId&gt;&#xD;
@@ -12,6 +12,23 @@
     &lt;/Test&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Add_SingleMethodASimpleCalculator(" ",0)&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Subtract_SingleMethodASimpleCalculator&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10dd0a7f_002D84e0_002D4073_002D9b83_002Daa2ea1269af2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Subtract_SingleMethodASimpleCalculator(&amp;quot;7,2&amp;quot;,5)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Subtract_SingleMethodASimpleCalculator("7,2",5)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38065d1e_002D8d22_002D479d_002Db840_002D86178564f1d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Subtract_SingleMethodASimpleCalculator(&amp;quot;7,2&amp;quot;,5) #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Subtract_SingleMethodASimpleCalculator&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d870ae33_002D18e1_002D4171_002D9ba3_002D5b4ffd265fd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Subtract_SingleMethodASimpleCalculator" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Subtract_SingleMethodASimpleCalculator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE4E22E4-8F28-49DA-B6A8-6EA5DE2E6159::.NETCoreApp,Version=v3.1::TestDrivenDesign.Test.Tests.Add_SingleMethodASimpleCalculator&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
